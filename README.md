@@ -12,7 +12,7 @@ My AI3 has 99% win-rate against random AI.
 2.Go to build and run './gamerunner'
 
 
-<br>
+<br />
 
 <p align="center">
   <img src="./image/BattleShip.png" width="75%" alt="preview"/>
