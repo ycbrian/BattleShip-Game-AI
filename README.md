@@ -8,9 +8,11 @@ My AI3 has 99% win-rate against random AI.
 ## How to play it
 
 1.Go to file and 'make' in your terminal
+
 2.Go to build and run './gamerunner'
 
 
+<br>
 
 <p align="center">
   <img src="./image/BattleShip.png" alt="preview"/>
@@ -19,6 +21,7 @@ My AI3 has 99% win-rate against random AI.
 
 ---
 
+<br>
 See more information in BattleShip.ppt
 
 
