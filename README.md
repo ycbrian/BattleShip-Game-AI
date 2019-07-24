@@ -14,14 +14,13 @@ My AI3 has 99% win-rate against random AI.
 
 <br>
 
-<p align="center">
+<p align="center" style="width:50% height:auto">
   <img src="./image/BattleShip.png" alt="preview"/>
 </p>
 
 
 ---
 
-<br>
 See more information in BattleShip.ppt
 
 
